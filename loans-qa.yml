@@ -1,0 +1,13 @@
+
+build:
+  version: '2.1'
+
+
+loans:
+  message: "Welcome to eazyBanks QA related API's"
+  contactDetails:
+    name: "QA lead"
+    email: "qa@gmail.com"
+  onCallSupport:
+    - (444) 333-123
+    - (444) 222-123

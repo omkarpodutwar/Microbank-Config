@@ -1,0 +1,13 @@
+
+build:
+  version: '2.1'
+
+
+cards:
+  message: "Welcome to eazyBanks Cards related Production API's"
+  contactDetails:
+    name: "Product owner"
+    email: "po@gmail.com"
+  onCallSupport:
+    - (444) 333-123
+    - (444) 222-123

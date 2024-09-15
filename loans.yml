@@ -1,0 +1,12 @@
+
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to EazyBank accounts related local API's"
+  contactDetails:
+    name: "Omkar P"
+    email: "omkp@gmail.com"
+  onCallSupport:
+    - (555) 555-123
+    - (555) 555-124

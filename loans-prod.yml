@@ -1,0 +1,13 @@
+
+build:
+  version: '3.1'
+
+
+loans:
+  message: "Welcome to eazyBanks Loans related Production API's"
+  contactDetails:
+    name: "Product owner"
+    email: "po@gmail.com"
+  onCallSupport:
+    - (444) 333-123
+    - (444) 222-123

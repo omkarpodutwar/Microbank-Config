@@ -1,0 +1,13 @@
+
+build:
+  version: '2.2'
+
+
+cards:
+  message: "Welcome to eazyBanks Cards related QA API's"
+  contactDetails:
+    name: "QA Lead"
+    email: "qa@gmail.com"
+  onCallSupport:
+    - (111) 333-123
+    - (111) 222-123
