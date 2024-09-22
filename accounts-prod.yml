@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related to Prod API's"
   contactDetails:
-    name: "{cipher}1917a1589d7c1dcfc42fbd047c941b1875d6da0f42c815b86383aeac3e6921b9"
+    name: "Omkar Podutwar"
     # {cipher} as a prefix represents encrypted value
     email: "{cipher}22e4defa6e591ffec75a273f3da51db518a707b9c1e77bf4fc682e78c2ec07abc2d77878414a1e9e303ff297ce15155d"
   onCallSupport:
