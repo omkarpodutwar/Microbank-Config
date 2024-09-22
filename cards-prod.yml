@@ -4,7 +4,7 @@ build:
 
 
 cards:
-  message: "Welcome to eazyBanks Cards related Production API's"
+  message: "Welcome to eazyBanks Cards related prod API's"
   contactDetails:
     name: "Product owner"
     email: "po@gmail.com"
