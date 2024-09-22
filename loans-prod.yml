@@ -4,7 +4,7 @@ build:
 
 
 loans:
-  message: "Welcome to eazyBanks Loans related Production API's"
+  message: "Welcome to eazyBanks Loans related prod API's"
   contactDetails:
     name: "Product owner"
     email: "po@gmail.com"
